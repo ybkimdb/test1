@@ -14,8 +14,9 @@ namespace con1
             // create branch  3dn commit
             // comit 3rd 
             Console.WriteLine("Hello World!");
-                        Console.WriteLine("Hello 2dn World!");
+            Console.WriteLine("Hello branch off World!");
             Console.ReadKey();
+            // after branch commit
         }
     }
 }
